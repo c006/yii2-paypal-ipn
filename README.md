@@ -34,7 +34,11 @@ Please view example PayPal Controller for usage.
 
 `Example\controllers\PaypalController.php`
 
-If it is not self explanatory let me know.
+
+Testing: `https://developer.paypal.com/developer/ipnSimulator`
+
+You must sign up on the dev site to use.
+
 
 
 Updates
