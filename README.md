@@ -31,6 +31,9 @@ Usage
 -----
 
 Please view example PayPal Controller for usage.
+
+`Example\controllers\PaypalController.php`
+
 If it is not self explanatory let me know.
 
 
