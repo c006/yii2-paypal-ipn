@@ -1,0 +1,18 @@
+{
+    "name"       : "c006/yii2-paypal-ipn",
+    "description": "This is a simple PayPal IPN listener, no other files required.",
+    "type"       : "yii2-extension",
+    "keywords"   : ["yii2", "extension", "paypal", "ipn"],
+    "license"    : "MIT",
+    "authors"    : [
+        {
+            "name" : "Jon Chambers",
+            "email": "jchambers.dev@gmail.com"
+        }
+    ],
+    "autoload"   : {
+        "psr-4": {
+            "c006\\paypal_ipn\\": ""
+        }
+    }
+}
